@@ -18,21 +18,21 @@ img {
 div#red{
     background-color: #ff0000; 
     text-align: right;
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
 div#blue {
     background-color: #0000ff; 
     text-align: left;
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
 div#yellow {background-color: #ffff00; 
     text-align: right; 
     color: #000000; 
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 div#yellow h2{
@@ -43,7 +43,7 @@ div#yellow h2{
 div#green {
     background-color: #008000;
     text-align: left;
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
